@@ -1,0 +1,25 @@
+{
+  "name": "@dexish6/iso-paypal-converter",
+  "version": "1.0.0",
+  "description": "Converts [ISO 3166-2 alpha 2 codes](https://en.wikipedia.org/wiki/ISO_3166-2) to the [codes the PayPal API requires](https://developer.paypal.com/docs/classic/api/state_codes/) to identify your customers state.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexish6/dexter-paypal-converter.git"
+  },
+  "author": "dexter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexish6/dexter-paypal-converter/issues"
+  },
+  "homepage": "https://github.com/dexish6/dexter-paypal-converter#readme",
+  "publishConfig": {
+    "@dexish6:registry": "https://npm.pkg.github.com"
+  }
+}
