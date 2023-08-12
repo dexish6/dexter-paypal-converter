@@ -2,9 +2,9 @@
   "name": "@dexish6/iso-paypal-converter",
   "version": "1.0.0",
   "description": "Converts [ISO 3166-2 alpha 2 codes](https://en.wikipedia.org/wiki/ISO_3166-2) to the [codes the PayPal API requires](https://developer.paypal.com/docs/classic/api/state_codes/) to identify your customers state.",
-  "main": "index.js",
+  "main": "wirecard/iso-paypal-converter/index.js",
   "directories": {
-    "test": "test"
+    "test": "wirecard/iso-paypal-converter/test"
   },
   "scripts": {
     "test": "exit 0"
